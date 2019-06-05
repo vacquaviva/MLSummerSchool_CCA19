@@ -1,0 +1,1 @@
+The topics of this class are intro to ML, jargon, decision trees, binary classification problems and associated metrics.
