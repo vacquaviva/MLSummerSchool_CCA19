@@ -1,0 +1,5 @@
+Topics:
+- Metrics for classification problems
+- Decision Trees leftover notebook
+- Bagging and Boosting algorithms
+- Case study: LAE/OII emitters in HETDEX
