@@ -1,0 +1,7 @@
+Topics:
+
+Bagging and Boosting algorithms code example (leftover from last week)
+
+Support Vector Machines
+
+Nested cross validation and parameter optimization
