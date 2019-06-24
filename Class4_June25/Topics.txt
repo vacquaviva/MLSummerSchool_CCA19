@@ -1,0 +1,10 @@
+Topics:
+
+Take a quick look at implementation of nested CV from last class
+
+Regression
+
+Clustering
+
+Files: no new data or packages! Will go through the regression notebook, and some slides. 
+We might or might not get to a notebook with a clustering example.
