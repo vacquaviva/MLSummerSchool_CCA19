@@ -1,0 +1,5 @@
+Topics:
+
+K means clustering demo
+K means application to galaxy images
+Dimensionality reduction
