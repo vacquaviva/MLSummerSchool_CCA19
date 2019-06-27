@@ -1,2 +1,2 @@
 # MLSummerSchool_CCA19
-Materials for the Mini Summer School in ML x Astro taught at CCA in Summer '19
+These are the materials for the Mini Summer School in Machine Learning x Astrostronomy taught at the Center for Computational Astrophysics of the Flatiron Institute in June 2019.
