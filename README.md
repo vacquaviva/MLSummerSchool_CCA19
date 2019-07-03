@@ -1,6 +1,9 @@
 # MLSummerSchool_CCA19
 These are the materials for the Mini Summer School in Machine Learning x Astrostronomy taught at the Center for Computational Astrophysics of the Flatiron Institute in June 2019.
 
+Videos of the lectures can be found on the YouTube channel of the Simons Foundation (search for "machine learning summer school").
+
+
 # Outline
 
 
@@ -12,9 +15,7 @@ Data source
 
 https://www.astroml.org/gatspy/datasets/rrlyrae.html
 
-Packages:
-
-Numpy, pandas, sklearn, matplotlib, IPython, pydotplus
+Packages: Numpy, pandas, sklearn, matplotlib, IPython, pydotplus
 
 
 ## June 13
@@ -23,9 +24,7 @@ Topics: Metrics for classification problems, decision trees leftovers, bagging a
 
 Data source: Andrew Leung (https://iopscience.iop.org/article/10.3847/1538-4357/aa71af/meta).
 
-Packages:
-
-Numpy, pandas, sklearn, matplotlib, scipy, time, warnings
+Packages: Numpy, pandas, sklearn, matplotlib, scipy, time, warnings
 
 
 ## June 20
