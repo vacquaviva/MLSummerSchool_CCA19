@@ -53,7 +53,11 @@ https://drive.google.com/open?id=1iQhjthdoYxG8NC-q9y9NKoWyzFEK3DbN
 
 https://drive.google.com/open?id=1vKAXzusF7Ig0DoFAnHE1RXItzZKdH9HV
 
-Data source: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge
+Data sources: 
+
+https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge
+
+https://www.astroml.org/user_guide/datasets.html
 
 New packages: none.
 
