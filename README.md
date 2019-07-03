@@ -1,5 +1,5 @@
 # MLSummerSchool_CCA19
-These are the materials for the Mini Summer School in Machine Learning x Astrostronomy taught at the Center for Computational Astrophysics of the Flatiron Institute in June 2019.
+These are the materials for the Mini Summer School in Machine Learning x Astronomy I taught at the Center for Computational Astrophysics of the Flatiron Institute in June 2019.
 
 Videos of the lectures can be found on the YouTube channel of the Simons Foundation (search for "machine learning summer school").
 
