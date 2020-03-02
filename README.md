@@ -61,3 +61,6 @@ https://www.astroml.org/user_guide/datasets.html
 
 New packages: none.
 
+## Video lectures link
+
+https://www.youtube.com/user/SimonsFoundation/search?query=machine+learning+summer+school
